@@ -1,5 +1,4 @@
 import time
-from types import new_class
 import requests
 from parsel import Selector
 
